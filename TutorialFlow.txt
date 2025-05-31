@@ -1,0 +1,30 @@
+1. install MLFlow
+2. install ipykernel 
+3. connect to environments 
+
+or
+
+1. create a requirements.txt file and add MLFlow, ipykernel and other dependencies and install
+
+---------------------------------------------------------------------------------------------
+
+MLFlow Tracking Server Creation
+
+4. in the terminal : "mlflow ui", and we get a local url where we see logs and runs.
+5. import mlflow, set_tracking_uri to ur url in terminal
+6. then check with tracking in url using 
+
+"""mlflow.set_experiment("check local tracking connection")
+
+with mlflow.start_run():
+    mlflow.log_metric("test",1)
+    mlflow.log_metric("krish",2)
+"""
+
+
+
+
+
+
+Bonus:
+conda info --envs  -- details of all environments
