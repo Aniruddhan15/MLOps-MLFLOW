@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/152798153520722597/44e686f90f47418d947d97efa65264f0/artifacts
+end_time: 1748682982128
+entry_point_name: ''
+experiment_id: '152798153520722597'
+lifecycle_stage: active
+run_id: 44e686f90f47418d947d97efa65264f0
+run_name: grandiose-asp-300
+run_uuid: 44e686f90f47418d947d97efa65264f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748682982073
+status: 3
+tags: []
+user_id: Aniruddhan

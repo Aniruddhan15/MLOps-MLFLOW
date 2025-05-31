@@ -50,7 +50,17 @@ Basic Pipeline
 
 --------------------------------- Inferencing model from registry using appropriate version and name -------------------
                      
-                                                                                
+ Dagshub code:
+
+ url of dagshub:
+
+ import dagshub
+dagshub.init(repo_owner='Aniruddhan15', repo_name='MLOps-MLFLOW', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)                                                                               
 
 
 

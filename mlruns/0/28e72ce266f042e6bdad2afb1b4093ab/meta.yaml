@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/28e72ce266f042e6bdad2afb1b4093ab/artifacts
+end_time: 1748699731407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28e72ce266f042e6bdad2afb1b4093ab
+run_name: smiling-perch-766
+run_uuid: 28e72ce266f042e6bdad2afb1b4093ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748699708037
+status: 3
+tags: []
+user_id: Aniruddhan

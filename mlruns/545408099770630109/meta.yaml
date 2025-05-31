@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/545408099770630109
+creation_time: 1748684918688
+experiment_id: '545408099770630109'
+last_update_time: 1748684918688
+lifecycle_stage: active
+name: wine_rf_experiment

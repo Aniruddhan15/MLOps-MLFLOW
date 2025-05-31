@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9fbd40b1b40b4e95acb21f4b404d7d76/artifacts
+end_time: 1748699496344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fbd40b1b40b4e95acb21f4b404d7d76
+run_name: unequaled-tern-667
+run_uuid: 9fbd40b1b40b4e95acb21f4b404d7d76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748699496324
+status: 4
+tags: []
+user_id: Aniruddhan

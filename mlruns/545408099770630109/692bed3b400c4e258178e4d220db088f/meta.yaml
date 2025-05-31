@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545408099770630109/692bed3b400c4e258178e4d220db088f/artifacts
+end_time: 1748685250442
+entry_point_name: ''
+experiment_id: '545408099770630109'
+lifecycle_stage: active
+run_id: 692bed3b400c4e258178e4d220db088f
+run_name: popular-grouse-937
+run_uuid: 692bed3b400c4e258178e4d220db088f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748685246051
+status: 3
+tags: []
+user_id: Aniruddhan

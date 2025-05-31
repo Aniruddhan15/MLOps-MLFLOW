@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748695903047
+current_stage: None
+description: ''
+last_updated_timestamp: 1748695903047
+name: WineQualityRandomForestModel
+run_id: d8c5179bb11a489eaf24b3a0785322d1
+run_link: ''
+source: mlflow-artifacts:/545408099770630109/d8c5179bb11a489eaf24b3a0785322d1/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/545408099770630109/d8c5179bb11a489eaf24b3a0785322d1/artifacts/model
+user_id: null
+version: 5

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/742a0013b4ae4d75a635c8a2d98ab946/artifacts
+end_time: 1748699999364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 742a0013b4ae4d75a635c8a2d98ab946
+run_name: overjoyed-bee-811
+run_uuid: 742a0013b4ae4d75a635c8a2d98ab946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748699995421
+status: 3
+tags: []
+user_id: Aniruddhan

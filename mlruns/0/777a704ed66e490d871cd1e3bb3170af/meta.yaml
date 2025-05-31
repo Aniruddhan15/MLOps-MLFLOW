@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/777a704ed66e490d871cd1e3bb3170af/artifacts
+end_time: 1748706699440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 777a704ed66e490d871cd1e3bb3170af
+run_name: traveling-croc-89
+run_uuid: 777a704ed66e490d871cd1e3bb3170af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748706694965
+status: 3
+tags: []
+user_id: Aniruddhan

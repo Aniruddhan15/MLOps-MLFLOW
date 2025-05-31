@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/152798153520722597/877e66161ba24386abbd46929a4fad90/artifacts
+end_time: 1748682490948
+entry_point_name: ''
+experiment_id: '152798153520722597'
+lifecycle_stage: active
+run_id: 877e66161ba24386abbd46929a4fad90
+run_name: loud-kit-23
+run_uuid: 877e66161ba24386abbd46929a4fad90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748682490901
+status: 3
+tags: []
+user_id: Aniruddhan

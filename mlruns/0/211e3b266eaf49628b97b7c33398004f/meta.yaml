@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/211e3b266eaf49628b97b7c33398004f/artifacts
+end_time: 1748699674218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 211e3b266eaf49628b97b7c33398004f
+run_name: placid-skink-123
+run_uuid: 211e3b266eaf49628b97b7c33398004f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748699674199
+status: 4
+tags: []
+user_id: Aniruddhan

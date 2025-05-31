@@ -32,6 +32,8 @@ MANIFEST
 *.manifest
 *.spec
 
+
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -135,6 +137,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+mlfvenv/
+
 
 # Spyder project settings
 .spyderproject

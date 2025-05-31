@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/152798153520722597
+creation_time: 1748682490435
+experiment_id: '152798153520722597'
+last_update_time: 1748682490435
+lifecycle_stage: active
+name: check local tracking connection

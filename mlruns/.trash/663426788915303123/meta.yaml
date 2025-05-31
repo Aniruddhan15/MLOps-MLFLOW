@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/663426788915303123
+creation_time: 1748682428891
+experiment_id: '663426788915303123'
+last_update_time: 1748682519629
+lifecycle_stage: deleted
+name: check local tracking server
+tags: {}
