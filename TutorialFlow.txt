@@ -1,3 +1,6 @@
+Bonus:
+conda info --envs  -- details of all environments
+
 1. install MLFlow
 2. install ipykernel 
 3. connect to environments 
@@ -21,10 +24,35 @@ with mlflow.start_run():
     mlflow.log_metric("krish",2)
 """
 
+---------------------------------------------------------------------------------------------
+Basic Pipeline
+
+1. install requirements from requirements.txt file
+2. import necessary libraries for ML Model building
+3. set mlflow_uri =  local port
+4. Load data, 
+            preprocess if required, 
+                                split data, 
+                                        train_test_split, 
+                                                    set hyperparameters for the algorithm, 
+                                                                                load params along with model --> y_pred calculation --> store accuracy and other metric.
+
+---------------------------------- MLFLOW Tracking --------------------------------------
+
+1. set tracking uri 
+2. create new experiment and start run with
+                                    1. log_params : hyperparameters
+                                    2. log_metrics : metrics
+                                    3. infer model signature 
+                                    4. log the model
+                                    5. Then validate the model
+                                    6. load in registry
+
+--------------------------------- Inferencing model from registry using appropriate version and name -------------------
+                     
+                                                                                
 
 
 
 
 
-Bonus:
-conda info --envs  -- details of all environments
